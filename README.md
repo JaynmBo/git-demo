@@ -6,3 +6,4 @@ jaynm Git Demo
 jaynm第一次提交
 git第一次提交
 git第二次提交（master）
+git第二次提交（feacher1）
